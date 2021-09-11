@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator", "ConsoleApp1\Decorator.csproj", "{A41DCC63-A8EE-45F1-BAC6-8D4F3AE6E173}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge", "ConsoleApp2\Bridge.csproj", "{831EB9DA-63A0-43FB-A560-C180CA585B9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A41DCC63-A8EE-45F1-BAC6-8D4F3AE6E173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41DCC63-A8EE-45F1-BAC6-8D4F3AE6E173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41DCC63-A8EE-45F1-BAC6-8D4F3AE6E173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41DCC63-A8EE-45F1-BAC6-8D4F3AE6E173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{831EB9DA-63A0-43FB-A560-C180CA585B9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831EB9DA-63A0-43FB-A560-C180CA585B9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831EB9DA-63A0-43FB-A560-C180CA585B9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831EB9DA-63A0-43FB-A560-C180CA585B9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {059C89C9-EB26-4DD6-B55D-48C807D26548}
+	EndGlobalSection
+EndGlobal
